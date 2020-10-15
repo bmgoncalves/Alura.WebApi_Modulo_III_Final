@@ -1,0 +1,41 @@
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.deps.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.dev.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csprojAssemblyReference.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CoreCompileInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorAssemblyInfo.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorAssemblyInfo.cs
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.AssemblyInfoInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.AssemblyInfo.cs
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorTargetAssemblyInfo.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CopyComplete
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.deps.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.dev.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csprojAssemblyReference.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.AssemblyInfoInputs.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.AssemblyInfo.cs
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CoreCompileInputs.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorAssemblyInfo.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorAssemblyInfo.cs
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorTargetAssemblyInfo.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CopyComplete
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.genruntimeconfig.cache

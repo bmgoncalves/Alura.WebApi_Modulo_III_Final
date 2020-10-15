@@ -1,0 +1,11 @@
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\bin\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.deps.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\bin\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.runtimeconfig.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\bin\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.runtimeconfig.dev.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\bin\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\obj\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.csprojAssemblyReference.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\obj\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.csproj.CoreCompileInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\obj\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.AssemblyInfoInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\obj\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.AssemblyInfo.cs
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.ConsoleCliente\obj\Debug\netcoreapp2.1\Alura.WebAPI.ConsoleCliente.csproj.CopyComplete

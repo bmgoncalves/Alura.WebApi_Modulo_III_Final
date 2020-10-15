@@ -1,0 +1,41 @@
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.deps.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.runtimeconfig.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.runtimeconfig.dev.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csprojAssemblyReference.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csproj.CoreCompileInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorAssemblyInfo.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorAssemblyInfo.cs
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.AssemblyInfoInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.AssemblyInfo.cs
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorTargetAssemblyInfo.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csproj.CopyComplete
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Alura.WebAPI\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.deps.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.runtimeconfig.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.runtimeconfig.dev.json
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.dll
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Api.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csprojAssemblyReference.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.AssemblyInfoInputs.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.AssemblyInfo.cs
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorAssemblyInfo.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorAssemblyInfo.cs
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.RazorTargetAssemblyInfo.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csproj.CopyComplete
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.dll
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.pdb
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.genruntimeconfig.cache
+D:\Estudos\Alura.WebApi_Modulo_III\Alura.WebAPI.Api\obj\Debug\netcoreapp2.1\Alura.WebAPI.Api.csproj.CoreCompileInputs.cache
