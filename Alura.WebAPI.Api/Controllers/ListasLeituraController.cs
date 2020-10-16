@@ -6,6 +6,7 @@ using Alura.ListaLeitura.Modelos;
 using Alura.ListaLeitura.Persistencia;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 using Lista = Alura.ListaLeitura.Modelos.ListaLeitura;
 
 namespace Alura.ListaLeitura.Api.Controllers
@@ -38,6 +39,9 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpGet]
+        [SwaggerOperation(Summary = "Retorna uma coleção de livros cadastrados em todas as listas de leitura",
+                          Tags = new[] { "Listas" },
+                           Produces = new[] { "application/json", "application/xml" })]
         public IActionResult TodasListas()
         {
             Lista paraLer = CriaLista(TipoListaLeitura.ParaLer);
@@ -48,7 +52,10 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpGet("{tipo}")]
-        public IActionResult Recuperar(TipoListaLeitura tipo)
+        [SwaggerOperation(Summary = "Retorna uma coleção de livros cadastrados em todas as listas de leitura conforme o tipo de lista de leitura",
+                          Tags = new[] { "Listas" },
+                          Produces = new[] { "application/json", "application/xml" })]
+        public IActionResult Recuperar([FromRoute] [SwaggerParameter("Tipo da Lista a ser obtida")]TipoListaLeitura tipo)
         {
             var lista = CriaLista(tipo);
             return Ok(lista);

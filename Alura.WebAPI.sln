@@ -26,6 +26,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apoio", "Apoio", "{E481BFB9-16D0-4D54-B04A-DB2C9CC26449}"
 	ProjectSection(SolutionItems) = preProject
 		Apoio.txt = Apoio.txt
+		..\Alura.WebAPI\Roteiro_Curso.txt = ..\Alura.WebAPI\Roteiro_Curso.txt
 	EndProjectSection
 EndProject
 Global

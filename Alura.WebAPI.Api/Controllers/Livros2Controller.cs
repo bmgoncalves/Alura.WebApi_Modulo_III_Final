@@ -3,6 +3,7 @@ using Alura.ListaLeitura.Persistencia;
 using Alura.WebAPI.Api.Modelos;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Swashbuckle.AspNetCore.Annotations;
 using System.Linq;
 
 namespace Alura.ListaLeitura.Api.Controllers
@@ -10,6 +11,7 @@ namespace Alura.ListaLeitura.Api.Controllers
     [Authorize]
     [ApiController]
     [ApiVersion("2.0")]
+    [ApiExplorerSettings(GroupName ="v2")]
     //[Route("api/livros")] - Versionamento por Query string ou Cabeçalho da Requisicao
     [Route("api/v{version:ApiVersion}/livros")] // Versionamento por URI / Rota
 
@@ -23,6 +25,9 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpGet]
+        [SwaggerOperation(Summary = "Recupera uma lista de livros conforme parametros",
+                          Tags = new[] { "Livros" },
+                           Produces = new[] { "application/json", "application/xml" })]
         public IActionResult ListaDeLivros([FromQuery] LivroFiltro filtro, [FromQuery] LivroOrdem ordem, [FromQuery] LivroPaginacao paginacao)
         {
             var livroPaginado = _repo.All
@@ -35,6 +40,12 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpGet("{id}")]
+        [SwaggerOperation(Summary = "Recupera o livro identificado por seu {id}.",
+                          Tags = new[] { "Livros" },
+                           Produces = new[] { "application/json", "application/xml" })]
+        [ProducesResponseType(statusCode: 200, Type = typeof(Livro))]
+        [ProducesResponseType(statusCode: 500, Type = typeof(ErrorResponse))]
+        [ProducesResponseType(statusCode: 404)]
         public IActionResult Recuperar(int id)
         {
             var model = _repo.Find(id);
@@ -46,6 +57,9 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpGet("{id}/capa")]
+        [SwaggerOperation(Summary = "Recupera imagem de capa do livro identificado por seu {id}.",
+                        Tags = new[] { "Livros" },
+                           Produces = new[] { "application/json", "application/xml" })]
         public IActionResult ImagemCapa(int id)
         {
             byte[] img = _repo.All
@@ -60,6 +74,9 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpPost]
+        [SwaggerOperation(Summary = "Registro novo livro na base ",
+                        Tags = new[] { "Livros" },
+                          Produces = new[] { "application/json", "application/xml" })]
         public IActionResult Incluir([FromForm] LivroUpload model)
         {
             if (ModelState.IsValid)
@@ -73,6 +90,9 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpPut]
+        [SwaggerOperation(Summary = "Atualiza informações do livro",
+                            Tags = new[] { "Livros" },
+                           Produces = new[] { "application/json", "application/xml" })]
         public IActionResult Alterar([FromForm] LivroUpload model)
         {
             if (ModelState.IsValid)
@@ -92,6 +112,9 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpDelete("{id}")]
+        [SwaggerOperation(Summary = "Remove livro identificado pelo ID",
+                            Tags = new[] { "Livros" },
+                           Produces = new[] { "application/json", "application/xml" })]
         public IActionResult Remover(int id)
         {
             var model = _repo.Find(id);
